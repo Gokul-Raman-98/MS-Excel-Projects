@@ -2,7 +2,8 @@
 ![Excel Dashboard](https://github.com/Gokul-Raman-98/MS-Excel-Projects/assets/168402268/89546ee4-8040-4871-90a6-314f3c6fae52)
 
 
-## Sales analysis of different coffee types for in the countries Ireland, USA AND United Kingdom for the years 2019-2021
+## Project Description
+### Sales analysis of different coffee types for in the countries Ireland, USA AND United Kingdom for the years 2019-2021
 
 1. Created a 4 year Sales Dashboard, utilizing Xlookup function, IF function, INDEX function and Pivot Tables.
 2. Identified the Total Sales by country.
