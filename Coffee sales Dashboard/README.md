@@ -13,7 +13,7 @@
 1. The Dataset consists of a single Excel sheet consisting of three data tables, orders, customers and products.
 2. Three pivot tables, one timeline slicer and three multi select slicers were created for the dashboard.
 
-## Key Findings
+## Dashboard Insights
 1. USA has made the highest coffee sales irrespective of the coffee roast type and loyalty card subscriptions.
 2. The sales comparison in all the three countries with respect to loyalty card subscription is marginal.
 3. Robusta blend coffee has made the least sales in the thre countries compared to the other three blends.
